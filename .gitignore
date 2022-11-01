@@ -1,0 +1,6 @@
+*.csv
+tables/
+cache/
+f1Scraper.py
+GraphPracticeLECVER.py
+GraphPracticeScratchpad.py
